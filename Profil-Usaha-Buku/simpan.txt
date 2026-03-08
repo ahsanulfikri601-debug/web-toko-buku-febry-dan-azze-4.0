@@ -1,0 +1,7 @@
+<nav> <a href="profile usaha buku.html">beranda</a>
+    <a href="produk.html">Produk</a>
+    <a href="bedah-buku.html">Bedah buku</a>
+    <a href="testimoni.html">Testimoni</a>
+    <a href="tampil-testimoni">Testimoni pembeli</a>
+</nav>
+    
